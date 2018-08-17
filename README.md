@@ -3,16 +3,17 @@
 Welcome to the IEEE-EMBS-Summer-School-of-Neural-Engineering-2018
 http://mindreading.technology/
 
-Tsinghua University, Beijing, China 13 August, 2018 - 17 August, 2018, Beijing, China
+Tsinghua University, Beijing, China, 13 August - 17 August, 2018
 
 --------------------------------------------------------------------------------------------
 
-******All images, videos, scritps, files from the summer school lectures or professor*******
+*****All images, videos, scritps, files from the summer school lectures or professor****
+
 ******The code from the prof.Yijun Wang, the code is used for EEG data analysis****** 
 
 
 --------------------------------------------------------------------------------------------
-The first day, 13 August,2018
+The First day, 13 August,2018
 --------------------------------------------------------------------------------------------
 
 Part 1 Mind reading technology
@@ -76,7 +77,7 @@ Part 4  Blackrock   http://blackrockmicro.com/
 
 --------------------------------------------------------------------------------------------
 
-The second day, 14 August, 2018
+The Second day, 14 August, 2018
 --------------------------------------------------------------------------------------------
 
 Part 1 Based EEG of Mind reading 
@@ -87,7 +88,7 @@ part 2 Oral and poster presentation
 
 ---------------------------------------------------------------------------------------------
 
-The third day, 15 August, 2018
+The Third day, 15 August, 2018
 
 ---------------------------------------------------------------------------------------------
 
@@ -101,7 +102,7 @@ Sensory input ---- Motor output
 
 The two EcoG signal
 
-a. Oscillatory activity vs Population-Level activity(neurons Firing)
+Oscillatory activity vs Population-Level activity(neurons Firing)
 
 Low Frequency band(10Hz-20Hz) vs High Frequency band
 
@@ -118,6 +119,7 @@ Ans: alpha power rate more higher, the firing neural rate decrease.
 Modulation of Excitability with Oscillatory Phase
 
 """The function - Through Biased Oscillations(FBO) hypothesis"""
+
 """Voltoge=== Excitability"""
 
 More alpha less Gamma signals. (Biased Oscillations)
@@ -136,7 +138,9 @@ Decoding of Auditory Perception
 
 -----------------------------------------------------------------------------------------------
 
-Part 3 Intracranial EEG(iEEG)  https://med.stanford.edu/profiles/josef-parvizi
+Part 3 Intracranial EEG(iEEG) 
+
+https://med.stanford.edu/profiles/josef-parvizi
 
 Average Neuronal Population Activity
 
@@ -155,6 +159,7 @@ f. Human brain
 ----------------------------------------------------------------------------------------------
 
 Part 4 Speech and Language Perception in Human Brain 
+
 http://mcgovern.med.tsinghua.edu.cn/investigators/index210.shtml
 
 Some research related Chinese language recognition with iEEG and sEEG
@@ -165,9 +170,9 @@ a. Phonetic b. Semantic  c. Syntactic
 
 -----------------------------------------------------------------------------------------------
 
+The Fouth day  16 August,2018
 
-The fouth day  16 August,2018
-
+-----------------------------------------------------------------------------------------------
 Part 1 fNIRS  http://nec.kumoh.ac.kr/
 
 1. Categories
@@ -175,11 +180,14 @@ Part 1 fNIRS  http://nec.kumoh.ac.kr/
 a. continue b. frequency domain c. time domain
 
 2. Frans Jobsis, the founder of in vivo NIRS
+
 https://www.researchgate.net/publication/258889025_Noninvasive_Infrared_Monitoring_of_Cerebral_and_Myocardial_Oxygen_Sufficiency_and_Circulatory_Parameters
 
 3. fNIRS analysis toolbox
 
-Part 2  EEG-based of brain state detection  http://www.tsinghua.edu.cn/publish/psyen/2349/2013/20130823140423378118183/20130823140423378118183_.html
+Part 2  EEG-based of brain state detection 
+
+ http://www.tsinghua.edu.cn/publish/psyen/2349/2013/20130823140423378118183/20130823140423378118183_.html
 
 Emotion state recognition
 
@@ -193,10 +201,11 @@ The neuroscience and market
 
 ------------------------------------------------------------------------------------------------------
 
-The fifth day 17 August, 2018
+The Fifth day 17 August, 2018
 ------------------------------------------------------------------------------------------------------
 
 Part 1 The basic knowledge of fMRI
+
 http://www.tsinghua.edu.cn/publish/psy/2280/2013/20130311152518627264089/20130311152518627264089_.html
 
 Larmor equation:  w=rB0
@@ -230,6 +239,7 @@ help us more deeply understand the relationship between brain activity and natur
 --------------------------------------------------------------------------------------------------
 
 Part 3 contrast and orentation research in V1
+
 https://profiles.stanford.edu/justin-gardner?tab=bio
 
 Mean across V1 is modulated by contrast and not orentation
@@ -264,6 +274,6 @@ Images form the Summer school
 ------------------------------------------------------------------------------
 [! panel discussion](https://github.com/sinodanish/IEEE-EMBS-Summer-School-of-Neural-Engineering-2018/blob/master/imgs/IMG_20180817_150812.jpg)
 
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 That's all the information from the IEEE-EMBS-Summer-School-of-Neural-Engineering-2018, I am 
 looking forward to seeing you next time at different location.
