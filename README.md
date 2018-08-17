@@ -245,13 +245,13 @@ Images form the Summer school
 ![Medical science building, Tsinghua University, 13-17, August,2018](https://github.com/sinodanish/IEEE-EMBS-Summer-School-of-Neural-Engineering-2018/blob/master/imgs/img_01.jpg)
 
 ---------------------------------------------------------------------
-14, August,2018  Photo together with all attending Profs and students
+14, August,2018  Photo together with all attending Profs and Sts
 ---------------------------------------------------------------------
 ![Take photos inside Medical science building](https://github.com/sinodanish/IEEE-EMBS-Summer-School-of-Neural-Engineering-2018/blob/master/imgs/img_02.jpg)
 
-----------------------------------------------------
-16, August, 2018 Photo with Profs Yukiyasu Kamitani
-----------------------------------------------------
+----------------------------------------------------------------
+16, August, 2018 Photo with Prof.Yukiyasu Kamitani and Dan Zhang
+----------------------------------------------------------------
 ![Photo with Profs](https://github.com/sinodanish/IEEE-EMBS-Summer-School-of-Neural-Engineering-2018/blob/master/imgs/PhotowithProf.jpg)
 
 ------------------------------------------------------------
