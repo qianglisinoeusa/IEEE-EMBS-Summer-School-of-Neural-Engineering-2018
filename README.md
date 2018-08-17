@@ -1,6 +1,3 @@
-# IEEE-EMBS-Summer-School-of-Neural-Engineering-2018
-
-
 --------------------------------------------------------------------------------------------
 
 Welcome to the IEEE-EMBS-Summer-School-of-Neural-Engineering-2018
@@ -10,8 +7,13 @@ Tsinghua University, Beijing, China 13 August, 2018 - 17 August, 2018, Beijing, 
 
 --------------------------------------------------------------------------------------------
 
-The first day, 13 August,2018
+******All images, videos, scritps, files from the summer school lectures or professor*******
+******The code from the prof.Yijun Wang, the code is used for EEG data analysis****** 
 
+
+--------------------------------------------------------------------------------------------
+The first day, 13 August,2018
+--------------------------------------------------------------------------------------------
 
 Part 1 Mind reading technology
 
@@ -75,6 +77,7 @@ Part 4  Blackrock   http://blackrockmicro.com/
 --------------------------------------------------------------------------------------------
 
 The second day, 14 August, 2018
+--------------------------------------------------------------------------------------------
 
 Part 1 Based EEG of Mind reading 
 
@@ -85,6 +88,8 @@ part 2 Oral and poster presentation
 ---------------------------------------------------------------------------------------------
 
 The third day, 15 August, 2018
+
+---------------------------------------------------------------------------------------------
 
 Part 1  EcoG-Based Neurophysiology  http://www.schalklab.org
 
@@ -147,7 +152,7 @@ c. Simutaneous coverge of distribution networks
 d. High signal to noise
 e. Probe causality
 f. Human brain
-
+----------------------------------------------------------------------------------------------
 
 Part 4 Speech and Language Perception in Human Brain 
 http://mcgovern.med.tsinghua.edu.cn/investigators/index210.shtml
@@ -189,6 +194,7 @@ The neuroscience and market
 ------------------------------------------------------------------------------------------------------
 
 The fifth day 17 August, 2018
+------------------------------------------------------------------------------------------------------
 
 Part 1 The basic knowledge of fMRI
 http://www.tsinghua.edu.cn/publish/psy/2280/2013/20130311152518627264089/20130311152518627264089_.html
@@ -221,6 +227,7 @@ https://www.facebook.com/worldeconomicforum/videos/10155243734541479/
 
 Reconstruction video and nature image from the brain activity, amazing and fantastic research! it can 
 help us more deeply understand the relationship between brain activity and nature environment.
+--------------------------------------------------------------------------------------------------
 
 Part 3 contrast and orentation research in V1
 https://profiles.stanford.edu/justin-gardner?tab=bio
@@ -247,4 +254,16 @@ Images form the Summer school
 ----------------------------------------------------
 ![Photo with Profs](https://github.com/sinodanish/IEEE-EMBS-Summer-School-of-Neural-Engineering-2018/blob/master/imgs/PhotowithProf.jpg)
 
+------------------------------------------------------------
+15, August, 2018 Video lectures from the prof. Josef Parvizi
+------------------------------------------------------------
+[! video lecture with Prof.Josef Parvizi](https://github.com/sinodanish/IEEE-EMBS-Summer-School-of-Neural-Engineering-2018/blob/master/imgs/IMG_20180815_123956.jpg)
 
+-----------------------------------------------------------------------------
+17, August, 2018 Panel discussion H-Lab
+------------------------------------------------------------------------------
+[! panel discussion](https://github.com/sinodanish/IEEE-EMBS-Summer-School-of-Neural-Engineering-2018/blob/master/imgs/IMG_20180817_150812.jpg)
+
+
+That's all the information from the IEEE-EMBS-Summer-School-of-Neural-Engineering-2018, I am 
+looking forward to seeing you next time at different location.
